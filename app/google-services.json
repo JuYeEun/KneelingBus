@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854071602078",
+    "project_id": "kneelingbus-8e5ed",
+    "storage_bucket": "kneelingbus-8e5ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854071602078:android:a46efeba1c7e75c540c48f",
+        "android_client_info": {
+          "package_name": "com.cookandroid.kneelingbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854071602078-qccff0e1lt44ufaunkm9u2drdl6etg4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoZt4rfipMyayGPsC_kj2usDopWILslMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854071602078-qccff0e1lt44ufaunkm9u2drdl6etg4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
