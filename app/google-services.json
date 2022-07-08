@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "854071602078",
-    "project_id": "kneelingbus-8e5ed",
-    "storage_bucket": "kneelingbus-8e5ed.appspot.com"
+    "project_number": "652496430842",
+    "project_id": "kneelingbus-48370",
+    "storage_bucket": "kneelingbus-48370.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:854071602078:android:a46efeba1c7e75c540c48f",
+        "mobilesdk_app_id": "1:652496430842:android:73754be073f4af6c3e4b43",
         "android_client_info": {
           "package_name": "com.cookandroid.kneelingbus"
         }
       },
       "oauth_client": [
         {
-          "client_id": "854071602078-qccff0e1lt44ufaunkm9u2drdl6etg4b.apps.googleusercontent.com",
+          "client_id": "652496430842-b9mkrjiuhqvr8rsn8f0a5c1b89emjg9s.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAoZt4rfipMyayGPsC_kj2usDopWILslMo"
+          "current_key": "AIzaSyBOvRC3ueRQP47x89pERlC_FPz85f4ZRaI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "854071602078-qccff0e1lt44ufaunkm9u2drdl6etg4b.apps.googleusercontent.com",
+              "client_id": "652496430842-b9mkrjiuhqvr8rsn8f0a5c1b89emjg9s.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

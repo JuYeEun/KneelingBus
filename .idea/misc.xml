@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/dongs/AndroidStudioProjects/KneelingBus/app/src/main/res/layout/activity_login.xml" value="0.15" />
+        <entry key="..\:/Users/dongs/AndroidStudioProjects/KneelingBus/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/dongs/AndroidStudioProjects/KneelingBus/app/src/main/res/layout/activity_register.xml" value="0.12056737588652482" />
+        <entry key="..\:/Users/dongs/AndroidStudioProjects/KneelingBus/app/src/main/res/layout/item_busnumber.xml" value="0.22" />
         <entry key="..\:/Users/inu/KneelingBus/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/inu/KneelingBus/app/src/main/res/layout/activity_main.xml" value="0.2064814814814815" />
         <entry key="..\:/Users/inu/KneelingBus/app/src/main/res/layout/activity_register.xml" value="0.2" />
